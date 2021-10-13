@@ -13,6 +13,7 @@ I'm Dylan, student developper from the Bretagne, France.
 
 # Github Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymortel)](https://github.com/Daymortel/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daymortel&theme=default&show_icons=true)
 
 
