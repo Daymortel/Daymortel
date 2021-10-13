@@ -16,6 +16,11 @@ I'm Dylan, student developper from the Bretagne, France.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymortel&layout=compact)](https://github.com/Daymortel/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daymortel&theme=default&show_icons=true)
 
+# Pined repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=github-readme-stats)](https://github.com/Daymortel/porto-dylan)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=github-readme-stats)](https://github.com/Daymortel/keylogger-gui)
 
 # About me
 
