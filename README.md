@@ -1,10 +1,4 @@
-<style>
-  .title{
-    color: #123456;
-  }
-</style>
-
-# <p align="center" class="title">Hi, I'm Dylan.</p>
+# <p align="center">Hi, I'm Dylan.</p>
 <p align="center"><img src="./Dylan.jpg" style="width: 200px;"></img></p>
 
 <p align="center">Welcome to my profil !</p>
