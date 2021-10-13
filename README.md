@@ -2,7 +2,7 @@
 
 Welcome to my profil !
 
-I'm student developper to will be Full-Stack from the Bretagne, in France.
+I'm student developper from the Bretagne, in France. I form me in professional formation to will be Full-Stack developper. I'll spécialize me in Back-end, but I make also Front-end. I'm begined little bit of years ago. I'm so motived and interseted in programmation. See you soon !
 
 ### About me
 
