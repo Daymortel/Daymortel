@@ -1,4 +1,5 @@
 ## Hi, I'm Dylan.
+[![Braydon's GitHub Banner](./assets/Dylan.jpg)]
 
 Welcome to my profil !
 
