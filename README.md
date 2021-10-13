@@ -1,5 +1,5 @@
 ## Hi, I'm Dylan.
-[![Braydon's GitHub Banner](./assets/Dylan.jpg)]
+[![Dylan's GitHub Banner](./assets/Dylan.jpg)]
 
 Welcome to my profil !
 
@@ -29,4 +29,4 @@ I'm student developper from the Bretagne, in France. I form me in professional f
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymortel&layout=compact)](https://github.com/Daymortel)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daymortel&theme=default&show_icons=true)
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daymortel&theme=default&show_icons=true)
