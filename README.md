@@ -18,9 +18,8 @@ I'm Dylan, student developper from the Bretagne, France.
 
 # Pined repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=github-readme-stats)](https://github.com/Daymortel/porto-dylan)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=github-readme-stats)](https://github.com/Daymortel/keylogger-gui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=porto-dylan)](https://github.com/Daymortel/porto-dylan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=keylogger-gui)](https://github.com/Daymortel/keylogger-gui)
 
 # About me
 
