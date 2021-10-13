@@ -21,9 +21,11 @@ I'm student developper to will be Full-Stack from the Bretagne, in France.
 ### Pined repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=porto-dylan)](https://daymortel.github.io/porto-dylan/)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=keylogger-gui)](https://github.com/Daymortel/keylogger-gui)
 
 ### Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymortel&layout=compact)](https://github.com/Daymortel/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daymortel&theme=default&show_icons=true)
