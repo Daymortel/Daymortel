@@ -1,7 +1,7 @@
-## Hi, Nice to meet you.
+## Hi, I'm Dylan.
 
-Welcome to my profil !
-I'm Dylan, student developper from the Bretagne, in France.
+Welcome to my profil !\n
+I'm student developper to will be Full-Stack from the Bretagne, in France.
 
 ### Skills
 
