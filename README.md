@@ -1,4 +1,6 @@
-## Hi, I'm Dylan. ![Dylan's GitHub Banner](./Dylan.jpg)
+## Hi, I'm Dylan.
+![Dylan's GitHub Banner](./Dylan.jpg)
+<center><img src="./Dylan.jpg"></img></center>
 
 Welcome to my profil !
 
