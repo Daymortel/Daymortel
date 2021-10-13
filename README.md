@@ -1,6 +1,5 @@
 ## Hi, I'm Dylan.
-![Dylan's GitHub Banner](./Dylan.jpg)
-<img src="./Dylan.jpg" style="background-position: center"></img>
+<img src="./Dylan.jpg" style="margin: 0 auto"></img>
 
 Welcome to my profil !
 
