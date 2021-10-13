@@ -1,6 +1,7 @@
 ## Hi, I'm Dylan.
 
-Welcome to my profil !\n
+Welcome to my profil !
+break
 I'm student developper to will be Full-Stack from the Bretagne, in France.
 
 ### Skills
