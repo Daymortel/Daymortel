@@ -15,11 +15,10 @@ I'm Dylan, student developper from the Bretagne, France.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymortel&layout=compact)](https://github.com/Daymortel/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daymortel&theme=default&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daymortel)](https://github.com/Daymortel/github-readme-stats)
 
 ### Pined repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=porto-dylan)](https://github.com/Daymortel/porto-dylan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=porto-dylan)](https://daymortel.github.io/porto-dylan/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=keylogger-gui)](https://github.com/Daymortel/keylogger-gui)
 
 ### About me
