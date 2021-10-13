@@ -1,5 +1,5 @@
 ## Hi, I'm Dylan.
-<img src="./Dylan.jpg" style="text-align: center"></img>
+<img src="./Dylan.jpg" style="display: block"></img>
 
 Welcome to my profil !
 
