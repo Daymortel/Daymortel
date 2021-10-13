@@ -1,4 +1,4 @@
-## <p align="center" style="font-size: 1000px;">Hi, I'm Dylan.</p>
+# <p align="center">Hi, I'm Dylan.</p>
 <p align="center"><img src="./Dylan.jpg" style="width: 200px;"></img></p>
 
 <p align="center">Welcome to my profil !</p>
