@@ -1,4 +1,4 @@
-# Hi, Nice to meet you.
+## Hi, Nice to meet you.
 
 Welcome to my profil !
 I'm Dylan, student developper from the Bretagne, France.
@@ -15,6 +15,7 @@ I'm Dylan, student developper from the Bretagne, France.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymortel&layout=compact)](https://github.com/Daymortel/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daymortel&theme=default&show_icons=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daymortel)](https://github.com/Daymortel/github-readme-stats)
 
 ### Pined repositories
 
