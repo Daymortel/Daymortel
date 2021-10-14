@@ -10,6 +10,9 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Daymortel/Daymortel)](https://github.com/Daymortel)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=7232BD)](https://instagram.com/dylan.babonneau)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dylan-babonneau-27b9421bb/)
+![image](https://user-images.githubusercontent.com/34453670/137277872-6c1636d3-e179-4a86-b5fd-96bc87c2eb7b.png)
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/dylan-babonneau-27b9421bb/"></img>
 
 ### Skills
 
