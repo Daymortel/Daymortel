@@ -3,7 +3,7 @@
 
 <p align="center">Welcome to my profil !</p>
 
-<p align="center">I'm student developper from Bretagne, in France. I form me in professional formation to will be Full-Stack developper. I'll specialize me in Back-end, but I make also Front-end. I'm begined little bit of years ago. I'm so motived and interseted in programmation. See you soon !</p>
+<p align="center">I'm student developper from Bretagne, in France. I'm currently in a professional formation to be Full-Stack developper. I'll specialize myself in Back-end, but I make also Front-end. I started to learn a couple of years ago. I'm so motived and interseted in programmation. See you soon !</p>
 
 ### About me
 
@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
+
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 
 ### Learning
