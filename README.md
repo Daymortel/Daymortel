@@ -8,20 +8,18 @@
 ### About me
 
 [![Visits Badge](https://badges.pufler.dev/visits/Daymortel/Daymortel)](https://github.com/Daymortel)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=7232BD)](https://instagram.com/dylan.babonneau)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dylan-babonneau-27b9421bb/)
 
-<a href="https://www.linkedin.com/in/dylan-babonneau-27b9421bb/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://facebook.com/dylan.babonneau" target="_blanck"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img></a>
-<a href="https://instagram.com/dylan.babonneau" target="_blanck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/dylan-babonneau-27b9421bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://facebook.com/dylan.babonneau"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img></a>
+<a href="https://instagram.com/dylan.babonneau"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 
 ### Skills
 
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></img>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
 
 ### Pined repositories
 
@@ -32,3 +30,13 @@
 ### Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymortel&layout=compact)](https://github.com/Daymortel)
+
+### Games Playing
+
+Pseudo all plateforms : Daymortel
+
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></img>
