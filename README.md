@@ -27,7 +27,7 @@
 
 ### Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Daymortel}"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daymortel"></img>
 
 ### Games Playing
 
