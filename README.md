@@ -24,16 +24,6 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 
-### Pined repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=porto-dylan)](https://daymortel.github.io/porto-dylan/)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=keylogger-gui)](https://github.com/Daymortel/keylogger-gui)
-
-### Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daymortel"></img>
-
 ### Games Playing
 
 Pseudo in all plateforms : Daymortel
@@ -43,3 +33,13 @@ Pseudo in all plateforms : Daymortel
 <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></img>
+
+### Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daymortel"></img>
+
+### Pined repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=porto-dylan)](https://daymortel.github.io/porto-dylan/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=keylogger-gui)](https://github.com/Daymortel/keylogger-gui)
