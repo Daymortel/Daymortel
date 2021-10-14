@@ -3,7 +3,7 @@
 
 <p align="center">Welcome to my profil !</p>
 
-<p align="center">I'm student developper from the Bretagne, in France. I form me in professional formation to will be Full-Stack developper. I'll spécialize me in Back-end, but I make also Front-end. I'm begined little bit of years ago. I'm so motived and interseted in programmation. See you soon !</p>
+<p align="center">I'm student developper from Bretagne, in France. I form me in professional formation to will be Full-Stack developper. I'll specialize me in Back-end, but I make also Front-end. I'm begined little bit of years ago. I'm so motived and interseted in programmation. See you soon !</p>
 
 ### About me
 
