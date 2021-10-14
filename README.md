@@ -7,8 +7,6 @@
 
 ### About me
 
-[![Visits Badge](https://badges.pufler.dev/visits/Daymortel/Daymortel)](https://github.com/Daymortel)
-
 <a href="https://www.linkedin.com/in/dylan-babonneau-27b9421bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://facebook.com/dylan.babonneau"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img></a>
 <a href="https://instagram.com/dylan.babonneau"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
@@ -29,7 +27,7 @@
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daymortel&layout=compact)](https://github.com/Daymortel)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Daymortel}"></img>
 
 ### Games Playing
 
