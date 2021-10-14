@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/dylan-babonneau-27b9421bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://facebook.com/dylan.babonneau"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img></a>
 <a href="https://instagram.com/dylan.babonneau"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a href="https://paypal.me/daymortel"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></img></a>
 
 ### Skills
 
