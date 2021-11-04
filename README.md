@@ -58,7 +58,6 @@
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></img>
 
 ##### Learning
 
