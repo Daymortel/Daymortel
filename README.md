@@ -81,4 +81,4 @@
 
 ### Pined repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=porto-dylan)](https://daymortel.github.io/porto-dylan/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daymortel&repo=portfolio-react)](http://daymortel.fr.nf/)
